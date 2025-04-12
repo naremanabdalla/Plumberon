@@ -1,0 +1,192 @@
+body {
+  font-family: "Arial", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background-color: #007bff;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+/* .container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+} */
+
+.section {
+  padding: 40px 0;
+}
+
+.footer {
+  background-color: #f8f9fa;
+  text-align: center;
+  padding: 20px;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+.btn-custom {
+  background-color: #28a745;
+  color: white;
+}
+
+.btn-custom:hover {
+  background-color: #218838;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.hero {
+  background: url("../assets/annie-spratt-8jwJlv4g3dg-unsplash.jpg")
+    center/cover no-repeat;
+  color: white;
+  padding: 120px 0;
+}
+/* .hero-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.4);
+} */
+.btn-yellow {
+  background-color: #fcd401;
+  color: #000;
+}
+.section-padding {
+  padding: 60px 0;
+}
+.services-icon {
+  font-size: 2rem;
+  margin-bottom: 10px;
+  color: #0056b3;
+}
+.stats .col {
+  text-align: center;
+}
+.bg-light-blue {
+  background-color: #f1f7ff;
+}
+.testimonial {
+  background-color: #f8f9fa;
+  padding: 60px 0;
+}
+.footer {
+  background-color: #002d5b;
+  color: white;
+  padding: 30px 0;
+}
+
+.why-choose-us-img {
+  background-image: url("../assets/arron-choi-fYD54gVXFGM-unsplash.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+.contact-Us-img {
+  background-image: url("../assets/sean-pollock-PhYq704ffdA-unsplash.jpg");
+  /* filter: brightness(0.5); */
+  background-position: bottom;
+  background-color: gray;
+  background-size: cover;
+  /* background-blend-mode: color; */
+}
+.Testimonials-img {
+  background-image: url("../assets/jeriden-villegas-VLPUm5wP5Z0-unsplash.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 3.5rem;
+  width: 3.5rem;
+  margin-top: -0.5rem;
+}
+/*  */
+.whatWeOffer-card-shadow:hover {
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+.testimonial-card-shadow {
+  box-shadow: 0px 1rem 0.4rem -8px rgba(0, 0, 0, 0.15);
+}
+.img-shadow-yellow {
+  box-shadow: 19px 1.5rem 0rem -7px #fcd401;
+}
+/*  */
+.color-yellow {
+  color: #fcd401;
+}
+.bgcolor-yellow {
+  background-color: #fcd401;
+}
+.bgcolor_blue {
+  background-color: #0a4678;
+}
+.fs-8 {
+  font-size: 0.8rem;
+}
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+
+.service-section {
+  padding: 60px 20px;
+}
+
+.section-title {
+  color: #1f2c5c;
+  font-weight: 700;
+}
+
+/* .highlight {
+  color: #fbbd08;
+  font-weight: 500;
+  font-size: 14px;
+} */
+
+.feature-box {
+  /* padding: 25px;
+  height: 100%; */
+}
+
+/* .feature-box i {
+  font-size: 24px;
+  color: #1f2c5c;
+  margin-bottom: 15px;
+} */
+
+.plumber-image {
+  width: 100%;
+  border-radius: 10px;
+  position: relative;
+}
+
+.img-wrapper {
+  position: relative;
+  display: inline-block;
+  padding-bottom: 10px;
+}
+
+/* .img-wrapper::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 90%;
+  height: 100%;
+  border: 5px solid #fbbd08;
+  border-radius: 10px;
+  z-index: -1;
+} */
+
+@media (max-width: 767px) {
+  .text-center-mobile {
+    text-align: center;
+  }
+}
