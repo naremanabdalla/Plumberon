@@ -22,16 +22,12 @@ landing-page
 To get started with this project, follow these steps:
 
 1. **Clone the repository**:
+
    ```
    git clone <repository-url>
    ```
 
-2. **Navigate to the project directory**:
-   ```
-   cd landing-page
-   ```
-
-3. **Open `index.html` in your web browser** to view the landing page.
+2. **Open `index.html` in your web browser** to view the landing page.
 
 ## Customization
 
